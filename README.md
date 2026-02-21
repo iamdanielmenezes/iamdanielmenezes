@@ -1,16 +1,15 @@
-## Hi there 👋
+# Daniel Menezes
 
-<!--
-**iamdanielmenezes/iamdanielmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado no aprendizado de Java e Programação Orientada a Objetos.
 
-Here are some ideas to get you started:
+Tenho desenvolvido pequenos projetos práticos para consolidar fundamentos e melhorar minha organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em estudo
+
+- Java
+- Programação Orientada a Objetos
+- Lógica de Programação
+
+## Objetivo
+
+Construir uma base sólida em desenvolvimento backend e me preparar para uma oportunidade na área de tecnologia.
