@@ -6,6 +6,8 @@ Tenho desenvolvido exercícios e pequenos projetos práticos para consolidar fun
 
 Busco minha primeira oportunidade como estagiário na área de desenvolvimento, com foco em backend Java.
 
+Linkedin: www.linkedin.com/in/iamdanielmenezes
+
 ---
 
 ## Tecnologias em estudo
