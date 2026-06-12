@@ -34,7 +34,7 @@ Atualmente estou desenvolvendo exercícios práticos focados em:
 
 Você pode acompanhar meus exercícios no repositório:
 
-🔗 **java-poo-exercicios**
+🔗 **exercicios-java-POO**
 
 ---
 
