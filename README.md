@@ -1,40 +1,58 @@
 # Daniel Menezes
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado no aprendizado de Java e Programação Orientada a Objetos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em desenvolvimento Back-end com Java e Spring Boot.
 
-Tenho desenvolvido exercícios e pequenos projetos práticos para consolidar fundamentos de programação, organização de código e lógica computacional.
+Atualmente estou aprofundando meus conhecimentos em Spring Boot, SQL e desenvolvimento de APIs REST, aplicando esses conhecimentos em projetos práticos.
 
-Busco minha primeira oportunidade como estagiário na área de desenvolvimento, com foco em backend Java.
+Busco minha primeira oportunidade de estágio em desenvolvimento Back-end, com foco em Java e Spring Boot.
 
-Linkedin: www.linkedin.com/in/iamdanielmenezes
+LinkedIn: [linkedin.com/in/iamdanielmenezes](https://www.linkedin.com/in/iamdanielmenezes/)
 
 ---
 
-## Tecnologias em estudo
+## Tecnologias
 
 - Java
-- Programação Orientada a Objetos (POO)
-- Lógica de Programação
-- Estruturas de Dados básicas
-- Vetores (arrays)
-- ArrayList
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- SQL
+- Bean Validation
+- JUnit
 - Git e GitHub
-- Scanner e manipulação de entrada de dados
 
 ---
 
-## Projetos e estudos
+## Projetos
 
-Atualmente estou desenvolvendo exercícios práticos focados em:
+### Sistema de Gerenciamento - VCC Motores
 
-- Criação e estruturação de classes
-- Encapsulamento e construtores
-- Manipulação de dados com métodos
-- Uso de vetores e listas dinâmicas
-- Busca e organização de dados em coleções
-- Boas práticas iniciais de organização de código
+Sistema de gerenciamento desenvolvido para uma empresa de manutenção de bombas hidráulicas, a partir de uma necessidade real de organização de clientes, manutenções, orçamentos e pagamentos.
 
-Você pode acompanhar meus exercícios no repositório:
+O projeto está sendo desenvolvido com foco no Back-end e utiliza Java, Spring Boot, PostgreSQL e JPA/Hibernate.
+
+Principais conhecimentos aplicados:
+
+- Desenvolvimento de API REST
+- Organização do projeto em camadas
+- Modelagem de entidades e relacionamentos
+- Persistência de dados com JPA/Hibernate
+- Integração com PostgreSQL
+- Validação de dados
+- Tratamento de exceções
+- Implementação de regras de negócio
+- Testes automatizados
+- Testes manuais da API com Postman
+
+🔗 **sistema-gerenciamento-vcc-motores**
+
+---
+
+### Exercícios de Java e POO
+
+Repositório criado durante meus estudos de Java, contendo exercícios desenvolvidos ao longo do curso, principalmente relacionados a Programação Orientada a Objetos e fundamentos da linguagem.
 
 🔗 **exercicios-java-POO**
 
@@ -42,4 +60,4 @@ Você pode acompanhar meus exercícios no repositório:
 
 ## Objetivo
 
-Construir uma base sólida em desenvolvimento backend Java e conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior na área de tecnologia.
+Continuar evoluindo como desenvolvedor Back-end, aprofundando meus conhecimentos em Java, Spring Boot e SQL, enquanto desenvolvo projetos práticos que demonstrem minha evolução e busco minha primeira oportunidade de estágio na área de tecnologia.
